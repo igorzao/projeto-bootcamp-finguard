@@ -1,0 +1,14 @@
+{
+  "nome": "Usuário Fictício",
+  "renda_mensal": 4500.00,
+  "objetivo_financeiro": "Economizar parte da renda mensal e reduzir gastos variáveis",
+  "perfil_consumo": "Moderado",
+  "limite_alerta_gastos": {
+    "Alimentação": 700.00,
+    "Transporte": 300.00,
+    "Assinaturas": 150.00,
+    "Compras": 400.00,
+    "Saúde": 300.00,
+    "Contas Fixas": 600.00
+  }
+}
