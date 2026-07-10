@@ -1,0 +1,15 @@
+data,descricao,categoria,valor,tipo
+2026-06-01,Supermercado Central,Alimentação,320.50,Despesa
+2026-06-03,Aplicativo de Transporte,Transporte,48.90,Despesa
+2026-06-05,Restaurante,Alimentação,86.40,Despesa
+2026-06-07,Streaming de Vídeo,Assinaturas,39.90,Despesa
+2026-06-09,Farmácia,Saúde,74.20,Despesa
+2026-06-11,Delivery,Alimentação,62.80,Despesa
+2026-06-13,Academia,Saúde,119.90,Despesa
+2026-06-15,Salário,Renda,4500.00,Receita
+2026-06-17,Café e Padaria,Alimentação,35.60,Despesa
+2026-06-20,Loja Online,Compras,210.00,Despesa
+2026-06-22,Conta de Energia,Contas Fixas,185.30,Despesa
+2026-06-25,Internet,Contas Fixas,99.90,Despesa
+2026-06-27,Delivery,Alimentação,71.50,Despesa
+2026-06-29,Aplicativo de Transporte,Transporte,52.70,Despesa
