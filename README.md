@@ -71,3 +71,32 @@ finguard-ia/
 ├── docs/
 ├── src/
 └── assets/
+```
+
+## Como executar o projeto
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/igorzão/projeto-bootcamp-finguard.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd projeto-bootcamp-finguard
+```
+
+3. Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Execute a aplicação:
+
+```bash
+streamlit run src/app.py
+```
+
+5. Acesse o navegador para interagir com o agente.
