@@ -1,0 +1,38 @@
+[
+  {
+    "categoria": "Alimentação",
+    "descricao": "Gastos com supermercado, restaurantes, delivery, cafés e padarias.",
+    "risco_de_excesso": "Alto",
+    "recomendacao_geral": "Definir um limite semanal e acompanhar gastos recorrentes fora de casa."
+  },
+  {
+    "categoria": "Transporte",
+    "descricao": "Gastos com aplicativos de transporte, combustível, estacionamento ou transporte público.",
+    "risco_de_excesso": "Médio",
+    "recomendacao_geral": "Avaliar alternativas de deslocamento e planejar rotas com antecedência."
+  },
+  {
+    "categoria": "Assinaturas",
+    "descricao": "Serviços recorrentes como streaming, aplicativos e clubes de assinatura.",
+    "risco_de_excesso": "Médio",
+    "recomendacao_geral": "Revisar assinaturas ativas e cancelar serviços pouco utilizados."
+  },
+  {
+    "categoria": "Compras",
+    "descricao": "Gastos com produtos, lojas online e compras não essenciais.",
+    "risco_de_excesso": "Alto",
+    "recomendacao_geral": "Evitar compras por impulso e criar uma lista de prioridades."
+  },
+  {
+    "categoria": "Saúde",
+    "descricao": "Gastos com farmácia, consultas, exames, academia e bem-estar.",
+    "risco_de_excesso": "Baixo",
+    "recomendacao_geral": "Acompanhar os gastos, mas priorizar despesas essenciais de saúde."
+  },
+  {
+    "categoria": "Contas Fixas",
+    "descricao": "Gastos recorrentes como energia, internet, aluguel, água e telefone.",
+    "risco_de_excesso": "Médio",
+    "recomendacao_geral": "Monitorar reajustes e buscar reduzir consumo quando possível."
+  }
+]
