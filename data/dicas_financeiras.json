@@ -1,0 +1,22 @@
+[
+  {
+    "tema": "Economia mensal",
+    "dica": "Separe uma parte da renda logo após o recebimento, antes de realizar gastos variáveis.",
+    "proximo_passo": "Definir uma meta mensal de economia."
+  },
+  {
+    "tema": "Controle de gastos",
+    "dica": "Classifique seus gastos por categoria para entender onde há maior consumo.",
+    "proximo_passo": "Revisar as três maiores categorias de despesa do mês."
+  },
+  {
+    "tema": "Delivery",
+    "dica": "Gastos frequentes com delivery podem comprometer o orçamento mensal.",
+    "proximo_passo": "Definir um limite semanal para alimentação fora de casa."
+  },
+  {
+    "tema": "Compras por impulso",
+    "dica": "Antes de comprar, aguarde algumas horas ou dias para avaliar se a compra é realmente necessária.",
+    "proximo_passo": "Criar uma lista de compras prioritárias."
+  }
+]
